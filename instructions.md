@@ -11,7 +11,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1. [] Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. 
 
 ```Code
-Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. 
+{
+Integer in mauris eu nibh euismod gravida.    
+    Duis ac tellus et risus vulputate vehicula.    
+    Donec lobortis risus a elit. Etiam tempor.    
+Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam.    
+}
 ```
 1. [] Maecenas fermentum consequat mi. 
 1. [] Donec fermentum. 
